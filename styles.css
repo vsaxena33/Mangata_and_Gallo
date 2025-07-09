@@ -333,6 +333,10 @@ footer {
   filter: invert(1);
 }
 
+.left-footer .download-app a {
+  text-decoration: none;
+}
+
 .right-footer {
   flex: 1;
   display: flex;
